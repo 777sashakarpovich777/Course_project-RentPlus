@@ -1,2 +1,2 @@
-# -ourse_project-RentPlus
+# Course_project-RentPlus
 Курсовой проект по автоматизации проката спортивного инвентаря
